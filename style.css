@@ -13,4 +13,6 @@ body {
 .caontainer .wrapper {
     width: 960px;
     border: 2px solid red;
+    margin: 0 auto;
+    text-align: center;
 }
