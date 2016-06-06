@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+.caontainer .wrapper {
+    width: 960px;
+    border: 2px solid red;
+}
